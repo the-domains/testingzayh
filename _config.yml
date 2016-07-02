@@ -1,0 +1,28 @@
+name: testingzayh
+favicon: null
+layout_spectrum: 0.919126866851002
+typography_spectrum: 0.7991653201170266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.17651314963586628
+  lightness: 0.486263646511361
+  saturation: 0.1690679588355124
+  rhythmicContrast: 0.4186863035429269
+purpose: []
